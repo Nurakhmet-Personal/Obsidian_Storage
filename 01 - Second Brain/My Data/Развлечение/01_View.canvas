@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ed344415a5118fc6","x":340,"y":-380,"width":400,"height":1380,"type":"file","file":"01 - Second Brain/My Data/Развлечение/Дорамы.md"},
+		{"id":"7c0437f701f433e6","x":820,"y":-380,"width":400,"height":1380,"type":"file","file":"01 - Second Brain/My Data/Развлечение/Фильм.md"},
+		{"id":"d5a628db7e7a66af","x":-220,"y":-380,"width":520,"height":1380,"type":"file","file":"01 - Second Brain/My Data/Развлечение/Аниме.md"},
+		{"id":"f220d79094bdbf2a","x":-640,"y":-380,"width":380,"height":1380,"type":"file","file":"01 - Second Brain/My Data/Развлечение/Сериал.md"}
+	],
+	"edges":[]
+}
